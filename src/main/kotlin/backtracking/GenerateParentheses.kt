@@ -13,7 +13,6 @@
 
 package backtracking
 
-
 class GenerateParentheses {
 
     fun generateParenthesis(n: Int): List<String> {
