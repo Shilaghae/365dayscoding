@@ -1,5 +1,7 @@
 package matrix
 
+import kotlin.math.ceil
+
 /***********************
  * Rotate in place clockwise
  ***********************/
@@ -15,7 +17,7 @@ class RoatateMatrix {
             mm.add(it, matrix[it].toMutableList())
         }
 
-        (0 until n).forEach {
+        (0 .. ceil((n / 2).toDouble()).toInt()).forEach {
             swap(mm, it, n - it)
         }
 
