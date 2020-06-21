@@ -1,6 +1,6 @@
 # 365 days, 2 exercises for day
 
-## Backtracking
+## Backtracking, Matrix, Stack
 **Day 1:** 1) Generate Parentheses Letter 2) Combination of a phone number
        
 **Day 2:** 1) Permutation of int arrays 2) Permutation of int arrays without showing duplicates
