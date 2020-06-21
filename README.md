@@ -1,4 +1,4 @@
-# 365 days, 2 exercises for day
+# 365 days, 2 exercises per day
 
 ## Backtracking, Matrix, Stack
 **Day 1:** 1) Generate Parentheses Letter 2) Combination of a phone number
